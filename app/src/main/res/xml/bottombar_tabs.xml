@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/nav_home"
+        id="@+id/tab_favorites"
+        title="Home" />
+    <tab
+        icon="@drawable/nav_pyq"
+        id="@+id/tab_nearby"
+        title="Pyq" />
+    <tab
+        icon="@drawable/nav_caidan"
+        id="@+id/tab_friends"
+        title="Caidan" />
+    <tab
+        icon="@drawable/nav_setting"
+        id="@+id/tab_me"
+        title="Setting" />
+</tabs>
